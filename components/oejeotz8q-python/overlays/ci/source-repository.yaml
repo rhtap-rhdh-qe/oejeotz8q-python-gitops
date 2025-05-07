@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: oejeotz8q-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/oejeotz8q-python
